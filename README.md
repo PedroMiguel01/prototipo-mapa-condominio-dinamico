@@ -33,7 +33,7 @@ Este projeto não contém informações reais, comerciais, confidenciais ou vinc
 Para visualizar o protótipo:
 
 1. Baixe ou clone este repositório.
-2. Abra o arquivo `index.html` no navegador.
+2. Abra o arquivo `README.md` e siga as instruções.
 3. Interaja com o mapa conforme os recursos disponíveis no protótipo.
 
 ## Status do Projeto
